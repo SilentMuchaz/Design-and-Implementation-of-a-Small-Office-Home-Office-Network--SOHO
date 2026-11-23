@@ -66,7 +66,7 @@ The source documentation lists ping tests as the method used for connectivity ve
 
 - [Packet Tracer network](Small-Office-Home-Office-Network%20--%20SOHO.pkt)
 - [Evidence links](evidence/README.md)
-- [PDF case study](reports/01-soho-network-case-study.pdf)
+- [PDF case study](01-soho-network-case-study.pdf)
 
 ## Evidence limitations
 
